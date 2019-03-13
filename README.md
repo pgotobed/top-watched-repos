@@ -12,9 +12,7 @@ A simple project to get and view top watched repos for any github user. Should d
 2. install node/npm
 3. navigate to project folder
 4. run `npm install`
-5. run `npm start`
-  5a. if this fails create .env file in project folder and add `SKIP_PREFLIGHT_CHECK=true`
-  5b. rerun `npm start`
+5. run `npm start` (if this fails create .env file in project folder and add `SKIP_PREFLIGHT_CHECK=true` and rerun)
 6. visit localhost:3000 in browser
 
 ## Available Scripts
