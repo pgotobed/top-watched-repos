@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Overview
 
 A simple project to get and view top watched repos for any github user. Should do all the following
@@ -8,13 +6,13 @@ A simple project to get and view top watched repos for any github user. Should d
 -indicate loading
 -indicate if an error has occurred or a user hasn't been found
 
-##Too run in development mode
+### Too run in development mode
 
 1. Download the files in this repo
 2. install node/npm
 3. navigate to project folder
-4. run ### `npm install`
-5. run ### `npm start`
+4. run `npm install`
+5. run `npm start`
 6. visit localhost:3000 in browser
 
 ## Available Scripts
